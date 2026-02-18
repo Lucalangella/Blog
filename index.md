@@ -12,9 +12,9 @@ Welcome to **Liminality**, a blog about spatial computing, design, and the edges
 
   <!-- Article 1 -->
   <div style="flex: 1 1 280px; max-width: 320px;">
-    <a href="/articles/liminality-vision/">
-      <img src="/images/covers/liminality-vision.jpg" alt="Liminality: Between Worlds cover" style="width: 100%; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.25);" />
-    </a>
+   <a href="https://lucalangella.github.io/Blog/articles/liminality-vision/">
+  <img src="https://lucalangella.github.io/Blog/images/covers/liminality-vision.jpg" alt="Liminality: Between Worlds cover" />
+</a>
     <h2 style="margin-top: 12px; margin-bottom: 4px;">Liminality: Between Worlds</h2>
     <p style="margin-top: 0; color: #777;">Why the space in‑between is the most interesting place to design for.</p>
   </div>
